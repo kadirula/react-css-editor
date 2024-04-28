@@ -12,16 +12,14 @@ npm install react-ace ace-builds
 
 ### `usage`
 
+```javascript
 const [cssCode, setCssCode] = useState('');
 
 const handleCssChange = (newCode) => {
     console.log(newCode);
     setCssCode(newCode);
 };
-
-'
-    
-'
+```
 
 ```javascript
 <div>
