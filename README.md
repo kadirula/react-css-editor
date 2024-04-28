@@ -2,10 +2,6 @@
 
 This project was bootstrapped with [React Ace](https://github.com/securingsincity/react-ace).
 
-## Available Scripts
-
-In the project directory, you can run:
-
 ### `Install`
 
 npm install react-ace ace-builds
