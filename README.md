@@ -20,7 +20,11 @@ const handleCssChange = (newCode) => {
 };
 
 '
-    <div>
+    
+'
+
+```javascript
+<div>
       {/* AceEditor bileşenini oluşturun */}
       <AceEditor
         mode="css" // Modu CSS olarak ayarlayın
@@ -39,4 +43,4 @@ const handleCssChange = (newCode) => {
         <div className="preview-box">Bu bir önizleme kutusu</div>
       </div>
     </div>
-'
+```
